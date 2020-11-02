@@ -1,2 +1,2 @@
-# gianghdo.github.io
+# giangdo.github.io
 This is Giang Do's github page
